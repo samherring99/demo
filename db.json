@@ -20,6 +20,55 @@
           "external_url": "https://www.google.com",
           "image": "https://ipfs.io/ipfs/QmXFydgk8tdLW2A2UkCuZCD2mdyRSi8oXRuys2qxX26bsD?filename=star-69x6.png",
           "name": "Star 69"
+        },
+        {
+          "id": 3,
+          "name": "Star 9",
+          "description": "This star, Star 9, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+          "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
+          "external_url": "https://www.google.com",
+          "attributes": [
+            {
+              "trait_type": "Gender",
+              "value": "Female"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Orange"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Blue"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Nose",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Orange"
+            },
+            {
+              "trait_type": "Shoes",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Socks",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Hat",
+              "value": "Purple"
+            },
+            {
+              "trait_type": "Accessories",
+              "value": "Purple"
+            }
+          ]
         }
     ]
 }
