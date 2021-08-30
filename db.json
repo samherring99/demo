@@ -34,6 +34,55 @@
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
       "name": "My Test Star NFT"
+    },
+    {
+      "id": 5,
+      "description": "My Actual Last Test Star NFT",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
+      "name": "Star XXX",
+      "attributes": [
+        {
+          "trait_type": "Gender",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Orange"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Nose",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Socks",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Purple"
+        }
+      ]
     }
   ]
 }
