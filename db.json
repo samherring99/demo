@@ -9,58 +9,17 @@
     },
     {
       "id": 1,
-      "description": "My Actual Real Last Test Star NFT for good.",
+      "description": "My Star Test NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
-      "name": "Star XXVII",
-      "attributes": [
-          {
-            "trait_type": "Base",
-            "value": "Starfish"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Big"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "Surprised"
-          },
-          {
-            "trait_type": "Level",
-            "value": 5
-          },
-          {
-            "trait_type": "Stamina",
-            "value": 1.4
-          },
-          {
-            "trait_type": "Personality",
-            "value": "Sad"
-          },
-          {
-            "display_type": "boost_number",
-            "trait_type": "Aqua Power",
-            "value": 40
-          },
-          {
-            "display_type": "boost_percentage",
-            "trait_type": "Stamina Increase",
-            "value": 10
-          },
-          {
-            "display_type": "number",
-            "trait_type": "Generation",
-            "value": 2
-          }
-        ]
+      "name": "My NFT 1",
     },
     {
-      "id":2,
+      "id": 2,
       "description": "My NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 1",
+      "name": "My NFT 2"
     },
     {
       "id": 3,
@@ -71,20 +30,13 @@
     },
     {
       "id": 4,
-      "description": "My NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 2"
-    },
-    {
-      "id": 5,
       "description": "My Last Test Star NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
       "name": "My Test Star NFT"
     },
     {
-      "id": 6,
+      "id": 5,
       "description": "My Actual Last Test Star NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
