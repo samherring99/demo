@@ -314,47 +314,6 @@
             "value": "Blue Cap"
           }
         ]
-      },
-      {
-        "id": 8,
-        "name": "Star 8",
-        "description": "This star, Star 8, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
-        "external_url": "https://google.com",
-        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-8x6.png",
-        "attributes": [
-          {
-            "trait_type": "Gender",
-            "value": "Male"
-          },
-          {
-            "trait_type": "Background",
-            "value": "Orange"
-          },
-          {
-            "trait_type": "Body",
-            "value": "Body3"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "Black Smile"
-          },
-          {
-            "trait_type": "Nose",
-            "value": "Nose1"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Eyes6"
-          },
-          {
-            "trait_type": "Shoes",
-            "value": "Black"
-          },
-          {
-            "trait_type": "Socks",
-            "value": "White Socks"
-          }
-        ]
       }
   ],
   "metadata": {
