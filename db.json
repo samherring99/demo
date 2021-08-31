@@ -1,156 +1,2226 @@
 {
   "tokens": [
-    {
-      "id": 1,
-      "name": "Star 1",
-      "description": "This star, Star 1, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
-      "external_url": "https://google.com",
-      "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-1x6.png",
-      "attributes": [
-        {
-          "trait_type": "Gender",
-          "value": "Female"
-        },
-        {
-          "trait_type": "Background",
-          "value": "Blue"
-        },
-        {
-          "trait_type": "Body",
-          "value": "Body1"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Black Smile"
-        },
-        {
-          "trait_type": "Nose",
-          "value": "Nose2"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Eyes2"
-        },
-        {
-          "trait_type": "Shoes",
-          "value": "Black"
-        },
-        {
-          "trait_type": "Socks",
-          "value": "Black Socks"
-        },
-        {
-          "trait_type": "Hat",
-          "value": "Cowboy Hat"
-        },
-        {
-          "trait_type": "Accessories",
-          "value": "Glasses"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Star 2",
-      "description": "This star, Star 2, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
-      "external_url": "https://google.com",
-      "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-2x6.png",
-      "attributes": [{"trait_type": "Gender", "value": "Male"}, {"trait_type": "Background", "value": "Blue"}, {"trait_type": "Body", "value": "Body2"}, {"trait_type": "Mouth", "value": "Black Open"}, {"trait_type": "Nose", "value": "Nose1"}, {"trait_type": "Eyes", "value": "Eyes2"}, {"trait_type": "Shoes", "value": "Checkered Vans"}, {"trait_type": "Socks", "value": "White Socks"}, {"trait_type": "Hat", "value": "Red Cap"}]
-    },
-    {
-      "id": 3,
-      "description": "This star, Star 3, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
-      "external_url": "https://google.com",
-      "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-3x6.png",
-      "name": "Star 3",
-      "attributes": [{"value": "Female"}, {"value": "Orange"}, {"value": "Body 2"}, {"value": "Red Lipstick"}, {"value": "Nose 3"}, {"value": "Eyes 2"}, {"value": "Black Shoes"}, {"value": "White Socks"}, {"value": "Cowboy Hat"}, {"value": "Glasses"}]
-    },
-    {
-      "id": 4,
-      "name": "Star 4",
-      "description": "This star, Star 4, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
-      "external_url": "https://google.com",
-      "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-4x6.png",
-      "attributes": [
-        {
-          "trait_type": "Gender",
-          "value": "Female"
-        },
-        {
-          "trait_type": "Background",
-          "value": "Red"
-        },
-        {
-          "trait_type": "Body",
-          "value": "Body4"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Red Smile"
-        },
-        {
-          "trait_type": "Nose",
-          "value": "Nose1"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Eyes6"
-        },
-        {
-          "trait_type": "Shoes",
-          "value": "AF1s"
-        },
-        {
-          "trait_type": "Socks",
-          "value": "Rainbow Socks"
-        },
-        {
-          "trait_type": "Accessories",
-          "value": "Glasses"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Star 5",
-      "description": "This star, Star 5, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
-      "external_url": "https://google.com",
-      "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-5x6.png",
-      "attributes": [
-        {
-          "trait_type": "Gender",
-          "value": "Female"
-        },
-        {
-          "trait_type": "Background",
-          "value": "Purple"
-        },
-        {
-          "trait_type": "Body",
-          "value": "Body3"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Purple Smile"
-        },
-        {
-          "trait_type": "Nose",
-          "value": "Nose2"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Eyes2"
-        },
-        {
-          "trait_type": "Shoes",
-          "value": "Black"
-        },
-        {
-          "trait_type": "Socks",
-          "value": "Black Socks"
-        }
-      ]
-    }
+      {
+        "id": 1,
+        "name": "Star 1",
+        "description": "This star, Star 1, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-1x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Glasses"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Star 2",
+        "description": "This star, Star 2, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-2x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body2"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Checkered Vans"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Red Cap"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Star 3",
+        "description": "This star, Star 3, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-3x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Supreme Cap"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Glasses"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Star 4",
+        "description": "This star, Star 4, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-4x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Red"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes6"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "AF1s"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Rainbow Socks"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Glasses"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Star 5",
+        "description": "This star, Star 5, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-5x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Purple Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Star 6",
+        "description": "This star, Star 6, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-6x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes6"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Star 7",
+        "description": "This star, Star 7, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-7x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Rainbow Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Star 8",
+        "description": "This star, Star 8, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-8x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes6"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Star 9",
+        "description": "This star, Star 9, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-9x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Star 10",
+        "description": "This star, Star 10, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-10x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Fez"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Star 11",
+        "description": "This star, Star 11, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-11x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body2"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Zombie Mouth"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose4"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "AF1s"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Sunglasses"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Star 12",
+        "description": "This star, Star 12, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-12x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Star 13",
+        "description": "This star, Star 13, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-13x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Star 14",
+        "description": "This star, Star 14, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-14x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body2"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Glasses"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Star 15",
+        "description": "This star, Star 15, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-15x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Star 16",
+        "description": "This star, Star 16, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-16x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Purple Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Star 17",
+        "description": "This star, Star 17, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-17x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Supreme Cap"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Star 18",
+        "description": "This star, Star 18, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-18x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Star 19",
+        "description": "This star, Star 19, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-19x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Star 20",
+        "description": "This star, Star 20, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-20x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body2"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Star 21",
+        "description": "This star, Star 21, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-21x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Red Cap"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Glasses"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Star 22",
+        "description": "This star, Star 22, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-22x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Star 23",
+        "description": "This star, Star 23, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-23x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Star 24",
+        "description": "This star, Star 24, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-24x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body2"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose3"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Star 25",
+        "description": "This star, Star 25, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-25x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes4"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Star 26",
+        "description": "This star, Star 26, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-26x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body2"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Star 27",
+        "description": "This star, Star 27, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-27x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Star 28",
+        "description": "This star, Star 28, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-28x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes6"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Rainbow Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Star 29",
+        "description": "This star, Star 29, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-29x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Cigarette"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Star 30",
+        "description": "This star, Star 30, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-30x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose4"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Star 31",
+        "description": "This star, Star 31, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-31x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Sunglasses"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Star 32",
+        "description": "This star, Star 32, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-32x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Sunglasses"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Star 33",
+        "description": "This star, Star 33, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-33x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body2"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Star 34",
+        "description": "This star, Star 34, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-34x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Red Cap"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Star 35",
+        "description": "This star, Star 35, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-35x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Star 36",
+        "description": "This star, Star 36, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-36x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Purple Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Star 37",
+        "description": "This star, Star 37, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-37x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Star 38",
+        "description": "This star, Star 38, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-38x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Blue Converse"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Star 39",
+        "description": "This star, Star 39, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-39x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body2"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Red Cap"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Glasses"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Star 40",
+        "description": "This star, Star 40, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-40x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Purple Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes6"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Star 41",
+        "description": "This star, Star 41, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-41x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Star 42",
+        "description": "This star, Star 42, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-42x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Star 43",
+        "description": "This star, Star 43, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-43x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Star 44",
+        "description": "This star, Star 44, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-44x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Red Converse"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Star 45",
+        "description": "This star, Star 45, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-45x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body4"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "White Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Red Cap"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Star 46",
+        "description": "This star, Star 46, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-46x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose4"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Sunglasses"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Star 47",
+        "description": "This star, Star 47, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-47x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "AF1s"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Rainbow Socks"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Star 48",
+        "description": "This star, Star 48, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-48x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Smile"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Star 49",
+        "description": "This star, Star 49, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-49x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Star 50",
+        "description": "This star, Star 50, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-50x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose4"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Star 51",
+        "description": "This star, Star 51, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-51x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body5"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Star 52",
+        "description": "This star, Star 52, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-52x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body3"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Black Open"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose1"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes1"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Star 53",
+        "description": "This star, Star 53, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+        "external_url": "https://google.com",
+        "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-53x6.png",
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Body1"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Nose",
+            "value": "Nose2"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Eyes2"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Socks",
+            "value": "Black Socks"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Blue Cap"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Sunglasses"
+          }
+        ]
+      }
   ],
   "metadata": {
     "name": "Stardudes",
