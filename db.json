@@ -39,17 +39,19 @@
     },
     {
       "id": 1,
-      "description": "My NFT",
+      "description": "My Star Dude NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 1"
+      "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
+      "name": "My Star Dude NFT 1",
+      "attributes": [{"value": "Happy"}]
     },
     {
       "id": 2,
-      "description": "My NFT",
+      "description": "My Star Dude NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
-      "name": "My NFT 2"
+      "name": "My Star Dude NFT 2",
+      "attributes": []
     },
     {
         "name": "Star Power",
