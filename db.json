@@ -51,7 +51,7 @@
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
       "name": "My Star Dude NFT 2",
-      "attributes": []
+      "attributes": [{"trait_type": "Gender", "value": "Female"}, {"trait_type": "Background", "value": "Orange"}, {"trait_type": "Body", "value": "Body 2"}, {"trait_type": "Mouth", "value": "Red Lipstick"}, {"trait_type": "Nose", "value": "Nose 3"}, {"trait_type": "Eyes", "value": "Eyes 2"}, {"trait_type": "Shoes", "value": "Black Shoes"}, {"trait_type": "Socks", "value": "White Socks"}, {"trait_type": "Hat", "value": "Cowboy Hat"}, {"trait_type": "Accessories", "value": "Glasses"}]
     },
     {
         "name": "Star Power",
