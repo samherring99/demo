@@ -2,10 +2,40 @@
   "tokens": [
     {
       "id": 0,
-      "description": "My NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 0"
+      "description": "My Star NFT",
+      "external_url": "https://google.com",
+      "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
+      "name": "Star Power",
+      "attributes": [
+          {
+              "trait_type": "Strength",
+              "value": 59
+          },
+          {
+              "trait_type": "Dexterity",
+              "value": 29
+          },
+          {
+              "trait_type": "Constitution",
+              "value": 18
+          },
+          {
+              "trait_type": "Intelligence",
+              "value": 46
+          },
+          {
+              "trait_type": "Wisdom",
+              "value": 66
+          },
+          {
+              "trait_type": "Charisma",
+              "value": 83
+          },
+          {
+              "trait_type": "Experience",
+              "value": 0
+          }
+      ]
     },
     {
       "id": 1,
