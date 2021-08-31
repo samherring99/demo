@@ -60,6 +60,14 @@
       "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
       "name": "My Star Dude NFT 3",
       "attributes": [{"value": "Female"}, {"value": "Orange"}, {"value": "Body 2"}, {"value": "Red Lipstick"}, {"value": "Nose 3"}, {"value": "Eyes 2"}, {"value": "Black Shoes"}, {"value": "White Socks"}, {"value": "Cowboy Hat"}, {"value": "Glasses"}]
+    },
+    {
+      "id": 4,
+      "name": "Star 34",
+      "description": "This star, Star 34, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
+      "external_url": "http://google.com",
+      "image": "https://gateway.pinata.cloud/ipfs/QmXWDbSAvbGRuwUEEpegRRbFGegoxdSeKBJVV5TbGX6W6y/star-11x6.png",
+      "attributes": [{"trait_type": "Gender", "value": "Female"}, {"trait_type": "Background", "value": "Orange"}, {"trait_type": "Body", "value": "Body 2"}, {"trait_type": "Mouth", "value": "Red Lipstick"}, {"trait_type": "Nose", "value": "Nose 3"}, {"trait_type": "Eyes", "value": "Eyes 2"}, {"trait_type": "Shoes", "value": "Black Shoes"}, {"trait_type": "Socks", "value": "White Socks"}, {"trait_type": "Hat", "value": "Cowboy Hat"}, {"trait_type": "Accessories", "value": "Glasses"}]
     }
   ],
   "metadata": {
