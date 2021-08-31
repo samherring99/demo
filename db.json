@@ -59,52 +59,11 @@
     },
     {
       "id": 3,
-      "name": "Star 3",
       "description": "This star, Star 3, is part of a unique set of stars generated to be a digital avatar that will last you a lifetime.",
       "external_url": "https://google.com",
       "image": "https://raw.githubusercontent.com/samherring99/demo/master/img/star-3x6.png",
-      "attributes": [
-        {
-          "trait_type": "Gender",
-          "value": "Female"
-        },
-        {
-          "trait_type": "Background",
-          "value": "Blue"
-        },
-        {
-          "trait_type": "Body",
-          "value": "Body3"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Black Smile"
-        },
-        {
-          "trait_type": "Nose",
-          "value": "Nose1"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Eyes1"
-        },
-        {
-          "trait_type": "Shoes",
-          "value": "Black"
-        },
-        {
-          "trait_type": "Socks",
-          "value": "White Socks"
-        },
-        {
-          "trait_type": "Hat",
-          "value": "Supreme Cap"
-        },
-        {
-          "trait_type": "Accessories",
-          "value": "Glasses"
-        }
-      ]
+      "name": "Star 3",
+      "attributes": [{"value": "Female"}, {"value": "Orange"}, {"value": "Body 2"}, {"value": "Red Lipstick"}, {"value": "Nose 3"}, {"value": "Eyes 2"}, {"value": "Black Shoes"}, {"value": "White Socks"}, {"value": "Cowboy Hat"}, {"value": "Glasses"}]
     },
     {
       "id": 4,
