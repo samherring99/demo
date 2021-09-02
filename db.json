@@ -272,8 +272,9 @@
       }
   ],
   "metadata": {
-    "name": "Stardudes",
-    "description": "Stardudes are unique characters and are fun and cool and interesting.",
+    "name": "Starguys",
+    "description": "Randomly generated collection of 3752 unique 56x56px digital avatars on the Ethereum blockchain.",
+    "image" => "https://ipfs.io/ipfs/QmSTKGBTz38H4HfefepzGEi87caVsAGUkcXC1uNuJKwHdW?filename=coverstar.png",
     "external_link": "https://google.com",
     "seller_fee_basis_points": 250,
     "fee_recipient": "0x66449A3015488DA72976DCff99C6A75Bf94aAfda"
