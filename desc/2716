@@ -1,0 +1,41 @@
+{
+  "id": 2716,
+  "description": "This star, Star 2717, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-2717x6.png",
+  "name": "Star 2717",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Open"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Cap"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 936,
+  "description": "This star, Star 937, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-937x6.png",
+  "name": "Star 937",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Open"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Socks",
+      "value": "White Socks"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    }
+  ]
+}

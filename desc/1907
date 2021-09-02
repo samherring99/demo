@@ -1,0 +1,45 @@
+{
+  "id": 1907,
+  "description": "This star, Star 1908, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-1908x6.png",
+  "name": "Star 1908",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Purple Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Red Converse"
+    },
+    {
+      "trait_type": "Socks",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Cap"
+    }
+  ]
+}

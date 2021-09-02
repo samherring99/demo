@@ -1,0 +1,41 @@
+{
+  "id": 3317,
+  "description": "This star, Star 3318, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-3318x6.png",
+  "name": "Star 3318",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Purple Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Checkered Vans"
+    },
+    {
+      "trait_type": "Socks",
+      "value": "Black Socks"
+    }
+  ]
+}

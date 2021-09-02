@@ -1,0 +1,45 @@
+{
+  "id": 1465,
+  "description": "This star, Star 1466, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-1466x6.png",
+  "name": "Star 1466",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Socks",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Sunglasses"
+    }
+  ]
+}

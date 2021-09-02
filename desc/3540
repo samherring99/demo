@@ -1,0 +1,41 @@
+{
+  "id": 3540,
+  "description": "This star, Star 3541, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-3541x6.png",
+  "name": "Star 3541",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Open"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Blue Converse"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Cap"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2991,
+  "description": "This star, Star 2992, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-2992x6.png",
+  "name": "Star 2992",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie Mouth"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Black"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 535,
+  "description": "This star, Star 536, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-536x6.png",
+  "name": "Star 536",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "AF1s"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Cap"
+    }
+  ]
+}

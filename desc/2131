@@ -1,0 +1,45 @@
+{
+  "id": 2131,
+  "description": "This star, Star 2132, is a unique part of a set of stars generated to be a digital avatar that will last you a lifetime.",
+  "external_url": "https://google.com",
+  "image": "https://raw.githubusercontent.com/samherring99/demo/master/images/star-2132x6.png",
+  "name": "Star 2132",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Socks",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Cap"
+    }
+  ]
+}
